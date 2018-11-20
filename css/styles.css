@@ -1,0 +1,73 @@
+
+body {
+	background: url(../imagen/be.jpg);
+
+}
+
+form{
+    margin-top: 50px;
+	margin: 600px;
+	width: 90%
+	max-width:500px;
+	background:url(../imagen/Fondos-para-paginas-web-09.jpg);
+	position: relative;
+	padding: 30px;
+	border: 1px solid #FFFFFF;
+	box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
+	font-family: initial;
+
+	
+}
+
+input{
+	display: block;
+	padding: 0px;
+	width: 100%;
+	margin: 20px 0;
+	font-size: 20px;
+	margin-right:500px;
+	font-family: initial;
+
+}
+
+#icono{
+	width: 100px; height: 100px;
+	display:block;
+    margin:auto;
+
+
+}
+
+.login{
+	margin-right:12px;
+	text-align: left;
+}
+
+.form{
+	margin-top: 70px;
+
+}
+
+input[type="submit"] {
+	background: linear-gradient(#FFDA63, #FFB940);
+	border: 0;
+	border-radius: 20px;
+	color: brown;
+	
+}
+
+.sexo{
+	margin-right: 25px;
+
+}
+
+<input[type="checkbox"]{
+
+	margin-right: 800px;
+
+}
+
+.checkbox{
+	margin-right: 100%
+
+	}
